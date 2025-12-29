@@ -7,6 +7,6 @@ public class Createcontact_test
 		System.out.println("new contact is created ");
 		
 		
-		
+		System.out.println("new fork");
 	}
 }
